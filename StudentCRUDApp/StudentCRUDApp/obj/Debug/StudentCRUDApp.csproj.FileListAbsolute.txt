@@ -1,0 +1,11 @@
+C:\Users\MY OWN\Downloads\StudentCRUDApp\StudentCRUDApp\bin\Debug\StudentCRUDApp.exe.config
+C:\Users\MY OWN\Downloads\StudentCRUDApp\StudentCRUDApp\bin\Debug\StudentCRUDApp.exe
+C:\Users\MY OWN\Downloads\StudentCRUDApp\StudentCRUDApp\bin\Debug\StudentCRUDApp.pdb
+C:\Users\MY OWN\Downloads\StudentCRUDApp\StudentCRUDApp\obj\Debug\StudentCRUDApp.csproj.AssemblyReference.cache
+C:\Users\MY OWN\Downloads\StudentCRUDApp\StudentCRUDApp\obj\Debug\StudentCRUDApp.Form1.resources
+C:\Users\MY OWN\Downloads\StudentCRUDApp\StudentCRUDApp\obj\Debug\StudentCRUDApp.Properties.Resources.resources
+C:\Users\MY OWN\Downloads\StudentCRUDApp\StudentCRUDApp\obj\Debug\StudentCRUDApp.csproj.GenerateResource.cache
+C:\Users\MY OWN\Downloads\StudentCRUDApp\StudentCRUDApp\obj\Debug\StudentCRUDApp.csproj.CoreCompileInputs.cache
+C:\Users\MY OWN\Downloads\StudentCRUDApp\StudentCRUDApp\obj\Debug\StudentCRUDApp.exe
+C:\Users\MY OWN\Downloads\StudentCRUDApp\StudentCRUDApp\obj\Debug\StudentCRUDApp.pdb
+C:\Users\MY OWN\Downloads\StudentCRUDApp\StudentCRUDApp\obj\Debug\StudentCRUDApp.exe.config
